@@ -1,0 +1,17 @@
+{
+  "clientId": "", // id do seu bot
+
+
+  "parentOpened": "1010714224651153488", // id da categoria aonde vai abrir o dropdawn
+  "parentApply": "1011757058212765746", // id da categoria aonde vai abrir o ticket de suporte
+  "parentSupport": "1021262435455348858", // id da categoria aonde vai abrir o ticket sobre vip
+  "parentComplaint": "1010266260967264386", // id da categoria aonde vai abrir o ticket de Denuncias
+  "parentPartnership": "1013186174073962507", // id da categoria aonde vai abrir o ticket de duvidas
+  "parentHosting": "1021262583916929044", // id da categoria aonde vai abrir sobre reportar -bug
+
+  "roleSupport": "1010300804130951210",
+
+  
+  "logsTicket": "1010266284623155302",
+  "ticketChannel": "1010266359332093972"
+}
